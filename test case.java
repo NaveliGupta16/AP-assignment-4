@@ -5,7 +5,7 @@ public class GreeterTest {
 
     public void testGreet() {
         Greeter greeter = new Greeter();
-        String result = greeter.greet("Alice");
-        assertEquals("Hello, Alice", result);
+        String result = greeter.greet("Naveli");
+        assertEquals("Hello, Naveli", result);
     }
 }
